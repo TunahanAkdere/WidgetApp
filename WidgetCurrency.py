@@ -53,10 +53,10 @@ class DovizWidget:
 
 def exe_olustur():
     PyInstaller.__main__.run([
-        'atis.py',
+        'WidgetCurrency.py',
         '--onefile',
         '--windowed',
-        '--name=DovizWidget',
+        '--name=WidgetCurrency',
     ])
 
 if __name__ == "__main__":
