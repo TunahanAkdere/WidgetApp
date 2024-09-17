@@ -42,6 +42,6 @@ tkinter (Python ile birlikte gelen GUI kütüphanesi)
 Bu projeyi klonlayın veya indirin.
 Gerekli bağımlılıkları yükleyin:
 pip install requests beautifulsoup4 pyinstaller
-python atis.py
-python atis.py --build
+python WidgetCurrency.py
+python WidgetCurrency.py --build
 
